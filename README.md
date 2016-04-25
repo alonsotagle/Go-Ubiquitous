@@ -1,6 +1,7 @@
 # Go Ubiquitous
 
-*Project 6*
+*Project 6: Go Ubiquitous*
+*Android Nanodegree*
 
 Build a wearable watch face for Sunshine to run on an Android Wear device.
 
